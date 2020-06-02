@@ -1,0 +1,2 @@
+rootProject.name='NotesApplicationC32'
+include ':app'
